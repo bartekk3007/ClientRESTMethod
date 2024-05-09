@@ -1,0 +1,9 @@
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Task5\bin\Debug\Task5.exe.config
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Task5\bin\Debug\Task5.exe
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Task5\bin\Debug\Task5.pdb
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Task5\bin\Debug\IZadanie3.dll
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Task5\obj\Debug\Task5.csproj.AssemblyReference.cache
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Task5\obj\Debug\Task5.csproj.Up2Date
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Task5\obj\Debug\Task5.exe
+C:\Users\48571\OneDrive\Pulpit\COMLab6\_WCF_3_lab_files\Task5\obj\Debug\Task5.pdb
